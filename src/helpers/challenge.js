@@ -5,13 +5,13 @@ export default {
     1: {
       title: 'Troska o siebie',
       days: {
-        '28.11': 'Przeprowadź wieczorem rachunek sumienia z mijającego dnia.',
-        '29.11': 'Ogranicz dziś używanie mediów społecznościowych.',
-        '30.11': 'Poświęć konkretną czynność Bogu poprzedzając ją modlitwą.',
-        '01.12': 'Zadbaj dziś o ośmiogodzinny sen w nocy.',
-        '02.12': 'Zaplanuj przyjście na roraty następnego dnia.',
-        '03.12': 'Postaraj się zachować ciszę od modlitwy wieczornej aż do modlitwy porannej.',
-        '04.12': 'Poświęć 15 minut na spotkanie z Bogiem w Najświętszym Sakramencie.',
+        '28.11': 'Przyjdź dziś na Eucharystię wcześniej niż zazwyczaj i opowiedz Bogu, z czym do Niego przychodzisz.',
+        '29.11': 'Przeprowadź wieczorem rachunek sumienia z mijającego dnia.',
+        '30.11': 'Ogranicz dziś używanie mediów społecznościowych.',
+        '01.12': 'Poświęć konkretną czynność Bogu poprzedzając ją modlitwą.',
+        '02.12': 'Zadbaj dziś o ośmiogodzinny sen w nocy.',
+        '03.12': 'Zaplanuj przyjście na roraty następnego dnia.',
+        '04.12': 'Postaraj się zachować ciszę od modlitwy wieczornej aż do modlitwy porannej.',
       },
     },
     2: {
