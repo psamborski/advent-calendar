@@ -3,9 +3,11 @@ import ReactDOM from 'react-dom'
 import './index.scss'
 import WholeCalendarContainer from './features/WholeCalendarContainer/WholeCalendarContainer'
 import reportWebVitals from './reportWebVitals'
+import Loader from './features/Loader/Loader'
 
 ReactDOM.render(
   <React.StrictMode>
+    <Loader />
     <WholeCalendarContainer />
   </React.StrictMode>,
   document.getElementById('root'),
