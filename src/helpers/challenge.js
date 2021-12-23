@@ -45,7 +45,7 @@ export default {
         '20.12': 'Posprzątaj swój pokój.',
         '21.12': 'Postaw potrzebę kogoś innego przed swoją chociaż dwa razy.',
         '22.12': 'Przyozdób swój pokój świątecznym elementem.',
-        '23.12': 'Przygotuj się do niedzielnej eucharystii rozważając czytania i teksty z mszału (krąg liturgiczny).',
+        '23.12': 'Przygotuj się do niedzielnej eucharystii rozważając czytania i teksty z mszału (krąg liturgiczny). (<a style="color: darkblue; text-decoration: underline; cursor: pointer;" href="https://ujakuba.waw.pl/images/static_sites/KragLiturgiczny2021-12-26.png" title="Krąg liturgiczny">kliknij tutaj</a>)',
         '24.12': 'Odmów modlitwę Anioł Pański, najlepiej około południa.',
       },
     },
