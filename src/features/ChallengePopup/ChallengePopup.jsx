@@ -28,7 +28,7 @@ function ChallengePopup(props) {
               {' '}
               {dayDate}
             </h3>
-            <p dangerouslySetInnerHTML={__html: dayChallenge} />
+            <p dangerouslySetInnerHTML={{__html: dayChallenge}} />
             <img
               alt='Holly'
               className='holly-image'
