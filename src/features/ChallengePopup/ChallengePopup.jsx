@@ -28,12 +28,15 @@ function ChallengePopup(props) {
               {' '}
               {dayDate}
             </h3>
-            <p dangerouslySetInnerHTML={{ __html: dayChallenge }} />
+        {
+          // eslint-disable-next-line
+          <p dangerouslySetInnerHTML={{ __html: dayChallenge }} />
             <img
               alt='Holly'
               className='holly-image'
               src={Holly}
             />
+        }
           </div>
         </div>
       </div>
